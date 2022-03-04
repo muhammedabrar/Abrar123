@@ -11,7 +11,7 @@ import cucumber.api.junit.Cucumber;
 		plugin = {"json:target/cucumber.json"},
 		features="Feature99",
 		glue={"step_definition"}
-		,tags={"@succesful_login"}
+		,tags={"@Login_log_out"}
 		)
 
 
